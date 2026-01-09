@@ -12,7 +12,7 @@ const app = express();
 const corsOptions = {
     origin: [
         'http://localhost:3000',
-        'https://your-netlify-app.netlify.app', // Replace with your Netlify URL
+        'https://task-tracckerr.netlify.app/', 
         'https://*.netlify.app'
     ],
     credentials: true,
